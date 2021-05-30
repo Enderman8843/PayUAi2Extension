@@ -1,6 +1,6 @@
 # PayU Extension
 
-PayU Extension is a Appinventor Plugin for dealing with Payment Via Paytm.
+PayU Extension is a Appinventor Distro Plugin/Extension for dealing with Payment Via PayU.
 
 ## Installation
 
